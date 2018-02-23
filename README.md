@@ -1,9 +1,4 @@
-rc_cache
-=====
+# rc_cache
 
-An OTP application
+An LRU Cache with Riak Core storage
 
-Build
------
-
-    $ rebar3 compile
